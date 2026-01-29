@@ -10,7 +10,7 @@ Stock prediction is the key area of focus in financial analysis. The growing amo
 ## Overview
 Stock data of NEPSE from the year 2012 - 2020 was analysed. A comparative analysis of traditional financial models such as ARIMA and GARCH, and machine learning algorithms such as Linear Regression and LSTM models were studied. Hyperparameter optimization using Optuna framework for LSTM variants was the key focus of this research. Hyperparameters such as optimizers, LSTM hidden units, dropout rates, epochs, batch size and learning rate in combination with different LSTM architectures were tested.
 
-The Files are organized as:
+The files are organized as:
 - [Exploratory Data Analysis](https://github.com/SudipBishwakarma/MSc-Dissertation-2021/blob/main/MSc_Dissertation_EDA.ipynb)
 - [ARIMA Model Analysis](https://github.com/SudipBishwakarma/MSc-Dissertation-2021/blob/main/MSc_Dissertation_ARIMA(ver_3).ipynb)
 - [GARCH Model Analysis](https://github.com/SudipBishwakarma/MSc-Dissertation-2021/blob/main/MSc_Dissertation_GARCH(ver_2).ipynb)
@@ -33,4 +33,3 @@ If you find this research useful, please cite my paper:
   pages={1-6},\
   keywords={Machine learning algorithms;Linear regression;Stochastic processes;Manuals;Predictive models;Hyperparameter optimization;Data models;Machine Learning;NEPSE;Stock Prediction;Optuna;Hyperparameter Tuning;LSTM;Linear Regression;ARIMA;GARCH},\
   doi={10.1109/ICNGIS54955.2022.10079816}}
-  
